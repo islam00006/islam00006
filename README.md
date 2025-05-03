@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Islam!
+# 👋 Hi there, I'm Islam
 
 🎓 I'm a Computer Science student who’s always curious and ready to dive deep into the world of tech.
 
