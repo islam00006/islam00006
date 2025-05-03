@@ -8,7 +8,7 @@
 - ☁️ Cloud Computing – floating high in the digital skies.
 
 ## 👨‍💻 Programming Languages I Like:
-- 💙 Java – my first love.
+- ☕ Java – strong, reliable, and just the right amount of verbose.
 - 🐍 Python – clean, readable, and dangerously powerful.
 - 🧠 C – because sometimes I like talking directly to the machine.
 
